@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-
-=======
 ¡Buenos días!
 Yo soy Raúl Fernández
 Y esta es mi zona
@@ -15,4 +12,3 @@ Puedo ver un pez
 Luchando por su vida		- Mario Fernández -
 En el lodazal
 Adiós.
->>>>>>> 34fb3163772de9219e3c6e755e81e8efb26b66ba
