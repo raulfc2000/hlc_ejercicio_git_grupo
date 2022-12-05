@@ -1,2 +1,2 @@
 ¡Buenas tardes!
-¿Sabías que, en términos de rep...
+Justo como anunciaba la profecía.
