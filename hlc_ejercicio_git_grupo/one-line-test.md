@@ -1,2 +1,2 @@
 ¡Buenas tardes!
-Justo como anunciaba la profecía.
+Te la lie mario
